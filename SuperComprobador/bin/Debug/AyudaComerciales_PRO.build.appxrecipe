@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XTV</Machine>
+    <WindowsUser>ebenito</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\AyudaComercialesPRO.exe">
+      <PackagePath>AyudaComercialesPRO.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\AyudaComercialesPRO.pdb">
+      <PackagePath>AyudaComercialesPRO.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\Callisto.1.3.1\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\CheckCCC\bin\Debug\CheckCCC.dll">
+      <PackagePath>CheckCCC.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\CheckCCC\bin\Debug\CheckCCC.pdb">
+      <PackagePath>CheckCCC.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Icono_150.png">
+      <PackagePath>Assets\Icono_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Icono_30.png">
+      <PackagePath>Assets\Icono_30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Icono_310x150.png">
+      <PackagePath>Assets\Icono_310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Imagenes\BankCheck.png">
+      <PackagePath>Assets\Imagenes\BankCheck.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Imagenes\BotonCCC.png">
+      <PackagePath>Assets\Imagenes\BotonCCC.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Imagenes\BotonNIF.png">
+      <PackagePath>Assets\Imagenes\BotonNIF.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Imagenes\dni-electronico.png">
+      <PackagePath>Assets\Imagenes\dni-electronico.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Imagenes\No.png">
+      <PackagePath>Assets\Imagenes\No.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\Imagenes\Ok.png">
+      <PackagePath>Assets\Imagenes\Ok.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\AboutUserControl.xaml">
+      <PackagePath>AboutUserControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\P1NIF.xaml">
+      <PackagePath>P1NIF.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\P2CCC.xaml">
+      <PackagePath>P2CCC.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\Callisto.1.3.1\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\AnimatingContainer.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CascadingTextBlock.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CountdownControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeView.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Themes\Generic.xaml">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\AyudaComerciales\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

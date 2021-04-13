@@ -1,0 +1,222 @@
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.exe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\resources.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\AppxManifest.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\SuperComprobador_PRO.build.appxrecipe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\Callisto.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\CheckCCC.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\WinRTXamlToolkit.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\CheckCCC.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\CheckCCC.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\Callisto.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\bin\Debug\WinRTXamlToolkit.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\SuperComprobador_PRO.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\App.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\App.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\AboutUserControl.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\AboutUserControl.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\Common\StandardStyles.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\MainPage.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\MainPage.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\P1NIF.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\P1NIF.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\P2CCC.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\P2CCC.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\XamlTypeInfo.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\App.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\AboutUserControl.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\Common\StandardStyles.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\MainPage.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\P1NIF.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\P2CCC.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\SuperComprobadorPRO.exe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\SuperComprobadorPRO.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\SuperComprobador_PRO.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\priconfig.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\priconfig.xml.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\layout.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\layout.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\resources.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\resources.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\pri.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\pri.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\qualifiers.txt
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\qualifiers.txt.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\Callisto.pri.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\WinRTXamlToolkit.pri.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\Super comprobador PRO\SuperComprobador\obj\Debug\ProjectArchitectures.txt
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.exe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\resources.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\AppxManifest.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\SuperComprobador_PRO.build.appxrecipe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\Callisto.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\CheckCCC.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\WinRTXamlToolkit.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\CheckCCC.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\CheckCCC.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\Callisto.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\bin\Debug\WinRTXamlToolkit.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\SuperComprobador_PRO.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\App.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\App.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\AboutUserControl.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\AboutUserControl.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\Common\StandardStyles.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\MainPage.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\MainPage.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\P1NIF.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\P1NIF.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\P2CCC.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\P2CCC.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\XamlTypeInfo.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\App.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\AboutUserControl.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\Common\StandardStyles.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\MainPage.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\P1NIF.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\P2CCC.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\SuperComprobadorPRO.exe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\SuperComprobadorPRO.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\SuperComprobador_PRO.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\priconfig.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\priconfig.xml.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\layout.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\layout.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\resources.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\resources.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\pri.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\pri.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\qualifiers.txt
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\qualifiers.txt.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\Callisto.pri.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\WinRTXamlToolkit.pri.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales PRO\SuperComprobador\obj\Debug\ProjectArchitectures.txt
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.exe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\resources.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\AppxManifest.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobador_PRO.build.appxrecipe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\Callisto.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\CheckCCC.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\WinRTXamlToolkit.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\CheckCCC.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\CheckCCC.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\Callisto.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\WinRTXamlToolkit.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\SuperComprobador_PRO.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\App.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\App.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\AboutUserControl.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\AboutUserControl.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\Common\StandardStyles.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\MainPage.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\MainPage.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P1NIF.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P1NIF.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P2CCC.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P2CCC.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\XamlTypeInfo.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\App.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\AboutUserControl.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\Common\StandardStyles.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\MainPage.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P1NIF.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P2CCC.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\SuperComprobadorPRO.exe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\SuperComprobadorPRO.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\SuperComprobador_PRO.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\priconfig.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\priconfig.xml.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\layout.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\layout.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\resources.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\resources.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\pri.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\pri.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\Callisto.pri.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\WinRTXamlToolkit.pri.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\ProjectArchitectures.txt
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\IbanLibraryPCL.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\bin\Debug\IbanLibraryPCL.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P3Iban.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P3Iban.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\P3Iban.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\SuperComprobador_PRO\SuperComprobador\obj\Debug\LanguageQualifiers.txt
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\App.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\AboutUserControl.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\Common\StandardStyles.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\MainPage.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\P1NIF.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\P2CCC.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\P3Iban.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.xr.xml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.exe
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.pdb
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\resources.pri
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\AppxManifest.xml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobador_PRO.build.appxrecipe
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\Callisto.dll
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\CheckCCC.dll
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\IbanLibraryPCL.dll
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\WinRTXamlToolkit.dll
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\CheckCCC.pdb
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\CheckCCC.xml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\IbanLibraryPCL.pdb
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\Callisto.pri
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\WinRTXamlToolkit.pri
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\SuperComprobador_PRO.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\App.g.i.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\App.g.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\AboutUserControl.g.i.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\AboutUserControl.g.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\Common\StandardStyles.g.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\MainPage.g.i.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\MainPage.g.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P1NIF.g.i.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P1NIF.g.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P2CCC.g.i.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P2CCC.g.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P3Iban.g.i.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P3Iban.g.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\XamlTypeInfo.g.cs
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\App.xaml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\AboutUserControl.xaml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\Common\StandardStyles.xaml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\MainPage.xaml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P1NIF.xaml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P2CCC.xaml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P3Iban.xaml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\App.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\AboutUserControl.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\Common\StandardStyles.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\MainPage.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P1NIF.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P2CCC.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\P3Iban.xbf
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\XamlSaveStateFile.xml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\SuperComprobadorPRO.exe
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\SuperComprobadorPRO.pdb
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\SuperComprobador_PRO.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\priconfig.xml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\priconfig.xml.intermediate
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\layout.resfiles
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\layout.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\resources.resfiles
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\resources.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\pri.resfiles
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\pri.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\qualifiers.txt
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\qualifiers.txt.intermediate
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\Callisto.pri.xml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\WinRTXamlToolkit.pri.xml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\ProjectArchitectures.txt
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.exe.CodeAnalysisLog.xml
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.exe.lastcodeanalysissucceeded

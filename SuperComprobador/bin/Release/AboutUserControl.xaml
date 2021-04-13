@@ -1,0 +1,104 @@
+﻿<UserControl
+    x:Class="AyudaComerciales.AboutUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AyudaComerciales"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+   d:DesignHeight="770" 
+   d:DesignWidth="320">
+
+
+    <Grid Background="White">
+        <StackPanel Background="White">
+            <TextBlock Text="Ayuda comerciales - PRO"
+                       FontFamily="Segoe UI"
+                       FontWeight="SemiLight" 
+                       FontSize="26" 
+                       TextWrapping="Wrap" 
+                       Foreground="Black" />
+            <TextBlock FontFamily="Segoe UI"
+            	FontWeight="SemiLight" 
+            	FontSize="13" 
+            	TextWrapping="Wrap"
+            	Margin="0,30,0,0"
+            	Foreground="Black">            
+            	<Span>
+            		<Run Text="Por fin, ahora ya tienes en una sola aplicación todas las herramientas que necesita un comercial … y cualquier otra persona con necesidades puntuales de estas herramientas."/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Run Text="El "/>
+            	<Run FontWeight="Bold" Text="pack "/>
+            	<Run Text="por ahora "/>
+            	<Run Text="consta de "/>
+            	<Run FontWeight="Bold" Text="dos"/>
+            	<Run FontWeight="Bold" Text=" herramientas"/>
+            	<Run FontWeight="Bold" Text=":"/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="     •&#x9;"/>
+            	<Run FontWeight="Bold" Text="Comprobador de NIF's: "/>
+            	<Run Text="C"/>
+            	<Run Text="o"/>
+            	<Run Text="n"/>
+            	<Run Text=" "/>
+            	<Run Text="esta aplicación podrá saber si un NIF es correcto o no."/>
+            	<LineBreak/>
+            	<Run Text="&#xA;"/>
+            	<Run Text="     •&#x9;"/>
+            	<Run FontWeight="Bold" Text="Comprobador de CCC:"/>
+            	<Run Text=" De forma similar al anterior, está utilidad te indicará si el CCC de una cuenta bancaria española es correcta o no"/>
+            	<Run Text="."/>
+            	<LineBreak/>
+            	<Run Text="&#xA;"/>
+            	<Run Text="    "/>
+            	<LineBreak/>
+            	<Run Text="Se trata "/>
+            	<Run Text="solo de una pequeño avanzadilla de nuevas funciones que se irán agregando poco a poco a la aplicación"/>
+            	<Run Text="&#xA;"/>
+            </TextBlock>
+            <TextBlock FontFamily="Segoe UI"
+            	FontWeight="SemiLight" 
+            	FontSize="12" 
+            	TextWrapping="Wrap"
+            	Margin="0,10,0,0"
+            	Foreground="Black" VerticalAlignment="Top">
+            	<Run Text="Todos los elementos gráficos de esta aplicación han sido tomados de material puesto a disposición publica"/>
+            	<Run Text="."/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="El icono para la cuenta bancaria ha sido realizado por &quot;"/>
+            	<Span Foreground="Blue">
+            		<Run Text="Deleket"/>
+            	</Span>
+            	<Run Text="&quot; y "/>
+            	<Run Text="publicado bajo licencia "/>
+            	<Span FontWeight="Bold" FontStyle="Italic" FontSize="12" FontFamily="Segoe UI">
+            		<Run Text="CREATIVE COMMONS"/>
+            	</Span>
+            	<Run Text=" BY-NC-ND 3.0"/>
+            	<LineBreak/>
+            	<Span FontWeight="Bold" FontStyle="Italic" FontSize="12" FontFamily="Segoe UI">
+            		<Run Text=" "/>
+            	</Span>
+            	<Span FontSize="12" FontFamily="Segoe UI">
+            		<Run Text="("/>
+            	</Span>
+            	<Run FontStyle="Italic" Text="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.es_ES)"/>
+            	<Span Foreground="White" FontStyle="Italic" FontSize="12" FontFamily="Segoe UI">
+            		<Run Text="."/>
+            	</Span>
+            </TextBlock>
+            <TextBlock FontFamily="Segoe UI"
+            	FontWeight="SemiLight" 
+            	FontSize="12" 
+            	TextWrapping="Wrap"
+            	Foreground="Black" ScrollViewer.VerticalScrollBarVisibility="Disabled" Text="Por favor, no se olviden de valorar la aplicación y ofrecer sugerencias para su mejora. Gracias." UseLayoutRounding="True" VerticalAlignment="Bottom" Margin="0,10,0,0"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
+

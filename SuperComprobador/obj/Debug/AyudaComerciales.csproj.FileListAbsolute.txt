@@ -1,0 +1,176 @@
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.exe
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.pdb
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\bin\Debug\resources.pri
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\bin\Debug\AppxManifest.xml
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.i.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.i.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\XamlTypeInfo.g.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\App.xaml
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.xaml
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.xaml
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.exe
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.pdb
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml.intermediate
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles.intermediate
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles.intermediate
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles.intermediate
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\LanguageQualifiers.txt
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\ProjectArchitectures.txt
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.build.appxrecipe
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.i.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.cs
+c:\users\esteban benito\documents\visual studio 2012\Projects\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.xaml
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.exe
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.pdb
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\resources.pri
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\AppxManifest.xml
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.build.appxrecipe
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.i.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.i.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.i.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\App.xaml
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.xaml
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.xaml
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.xaml
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.exe
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.pdb
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml.intermediate
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles.intermediate
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles.intermediate
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles.intermediate
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\LanguageQualifiers.txt
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\ProjectArchitectures.txt
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.g.i.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.g.cs
+C:\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.xaml
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.exe
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.pdb
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\resources.pri
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\AppxManifest.xml
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.build.appxrecipe
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.i.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.i.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.i.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.i.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.g.i.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.g.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\XamlTypeInfo.g.cs
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\App.xaml
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.xaml
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.xaml
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.xaml
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.xaml
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.exe
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.pdb
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml.intermediate
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles.intermediate
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles.intermediate
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles.intermediate
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\LanguageQualifiers.txt
+\\ACER\Users\JuanEsteban\Documents\Visual Studio 2012\Projects\W8\AyudaComerciales\AyudaComerciales\obj\Debug\ProjectArchitectures.txt
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.exe
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.pdb
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\bin\Debug\resources.pri
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\bin\Debug\AppxManifest.xml
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.build.appxrecipe
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.i.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.i.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.i.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.g.i.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.g.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\XamlTypeInfo.g.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\App.xaml
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.xaml
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.xaml
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.xaml
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.xaml
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.exe
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.pdb
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml.intermediate
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles.intermediate
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles.intermediate
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles.intermediate
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\LanguageQualifiers.txt
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\ProjectArchitectures.txt
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\bin\Debug\Callisto.dll
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\AboutUserControl.g.i.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\AboutUserControl.g.cs
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\AboutUserControl.xaml
+D:\Mis Documentos\Visual Studio 2012\Proyectos\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.exe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\resources.pri
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\AppxManifest.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\AyudaComerciales.build.appxrecipe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\Callisto.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\CheckCCC.dll
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\CheckCCC.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\bin\Debug\CheckCCC.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\App.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\AboutUserControl.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\AboutUserControl.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.g.i.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\XamlTypeInfo.g.cs
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\App.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\AboutUserControl.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\Common\StandardStyles.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\MainPage.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\P1NIF.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\P2CCC.xaml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.exe
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.pdb
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\AyudaComerciales.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles.intermediate
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\priconfig.xml
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\layout.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\resources.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\pri.resfiles
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\LanguageQualifiers.txt
+D:\Mis documentos\Visual Studio 2012\Proyectos\Win8\AyudaComerciales\AyudaComerciales\obj\Debug\ProjectArchitectures.txt

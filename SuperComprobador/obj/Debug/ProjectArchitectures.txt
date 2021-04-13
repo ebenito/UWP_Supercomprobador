@@ -1,0 +1,3 @@
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\CheckCCC\CheckCCC.vbproj;neutral
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\IbanLibraryPCL.csproj;neutral
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\SuperComprobador_PRO.csproj;neutral

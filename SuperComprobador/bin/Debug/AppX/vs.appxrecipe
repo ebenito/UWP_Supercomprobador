@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XTV</Machine>
+    <WindowsUser>ebenito</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>64068EstebanBenito.SperComprobador-PRO</PackageIdentityName>
+    <PackageIdentityPublisher>CN=861769EB-74FC-4B39-BFED-DFA2CEF5D924</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>E0C23321777732A1462227295A422C5ED5577166B266B10EEEE93E0C89DBAC97</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>64068EstebanBenito.SperComprobador-PRO_1.3.1.3_neutral__af28qns5pen9p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>64068EstebanBenito.SperComprobador-PRO_af28qns5pen9p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>64068EstebanBenito.SperComprobador-PRO</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=861769EB-74FC-4B39-BFED-DFA2CEF5D924</RegisteredPackagePublisher>
+    <RegisteredVersion>1.3.1.3</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-12T14:51:13.346</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.exe">
+      <PackagePath>SuperComprobadorPRO.exe</PackagePath>
+      <Modified>2021-04-12T14:51:12.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\Callisto.1.3.1\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+      <Modified>2013-11-27T08:18:17.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\CheckCCC\bin\Debug\CheckCCC.dll">
+      <PackagePath>CheckCCC.dll</PackagePath>
+      <Modified>2021-04-12T14:49:42.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\bin\Debug\IbanLibraryPCL.dll">
+      <PackagePath>IbanLibraryPCL.dll</PackagePath>
+      <Modified>2021-04-12T14:49:42.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2013-11-27T08:18:33.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Icono_150.png">
+      <PackagePath>Assets\Icono_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-09T20:57:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Icono_30.png">
+      <PackagePath>Assets\Icono_30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-09T20:47:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Icono_310x150.png">
+      <PackagePath>Assets\Icono_310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-09T20:46:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Imagenes\BankCheck.png">
+      <PackagePath>Assets\Imagenes\BankCheck.png</PackagePath>
+      <Modified>2013-03-08T11:59:05.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Imagenes\BotonCCC.png">
+      <PackagePath>Assets\Imagenes\BotonCCC.png</PackagePath>
+      <Modified>2012-11-10T23:59:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Imagenes\BotonNIF.png">
+      <PackagePath>Assets\Imagenes\BotonNIF.png</PackagePath>
+      <Modified>2012-11-10T23:58:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Imagenes\dni-electronico.png">
+      <PackagePath>Assets\Imagenes\dni-electronico.png</PackagePath>
+      <Modified>2012-01-29T20:14:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Imagenes\No.png">
+      <PackagePath>Assets\Imagenes\No.png</PackagePath>
+      <Modified>2012-06-04T08:10:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\Imagenes\Ok.png">
+      <PackagePath>Assets\Imagenes\Ok.png</PackagePath>
+      <Modified>2012-06-04T08:10:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-09T20:54:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-08T13:43:16.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-11-09T22:29:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\SuperComprobadorPRO.xr.xml">
+      <PackagePath>SuperComprobadorPRO.xr.xml</PackagePath>
+      <Modified>2021-04-12T14:51:11.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2021-04-12T14:51:11.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\AboutUserControl.xbf">
+      <PackagePath>AboutUserControl.xbf</PackagePath>
+      <Modified>2021-04-12T14:51:11.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2021-04-12T14:51:11.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2021-04-12T14:51:11.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\P1NIF.xbf">
+      <PackagePath>P1NIF.xbf</PackagePath>
+      <Modified>2021-04-12T14:51:11.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\P2CCC.xbf">
+      <PackagePath>P2CCC.xbf</PackagePath>
+      <Modified>2021-04-12T14:51:11.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\P3Iban.xbf">
+      <PackagePath>P3Iban.xbf</PackagePath>
+      <Modified>2021-04-12T14:51:11.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\Callisto.1.3.1\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:17.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\AnimatingContainer.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CascadingTextBlock.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CountdownControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeView.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\packages\WinRTXamlToolkit.1.5.4.2\lib\netcore45\WinRTXamlToolkit\Themes\Generic.xaml">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-11-27T08:18:33.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\SuperComprobador\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-12T14:51:12.801</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

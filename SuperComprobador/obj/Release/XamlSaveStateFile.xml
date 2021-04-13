@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\mis documentos\visual studio 2015\projects\supercomprobador_pro\supercomprobador\obj\release\intermediatexaml\supercomprobadorpro.exe" HashGuid="855bec66-12e7-20f1-50ed-e93fb838d312" />
+    <ReferenceAssembly PathName="d:\mis documentos\visual studio 2015\projects\supercomprobador_pro\packages\callisto.1.3.1\lib\winrt45\callisto.dll" HashGuid="1e340f5c-3939-e07c-5224-f26e8f13033a" />
+    <ReferenceAssembly PathName="d:\mis documentos\visual studio 2015\projects\supercomprobador_pro\checkccc\bin\release\checkccc.dll" HashGuid="5ca16a44-25e2-d405-1ec3-de72788fb6a0" />
+    <ReferenceAssembly PathName="d:\mis documentos\visual studio 2015\projects\supercomprobador_pro\ibanlibrarypcl\bin\release\ibanlibrarypcl.dll" HashGuid="e8346be4-fd51-e80c-5419-181859d9bc7f" />
+    <ReferenceAssembly PathName="d:\mis documentos\visual studio 2015\projects\supercomprobador_pro\packages\winrtxamltoolkit.1.5.4.2\lib\netcore45\winrtxamltoolkit.dll" HashGuid="d47529d5-6208-12b2-f006-a696d90bae28" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

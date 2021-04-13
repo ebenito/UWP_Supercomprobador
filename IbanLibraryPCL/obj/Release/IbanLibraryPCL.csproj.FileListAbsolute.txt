@@ -1,0 +1,4 @@
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\bin\Release\IbanLibraryPCL.dll
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\bin\Release\IbanLibraryPCL.pdb
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\obj\Release\IbanLibraryPCL.dll
+D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\obj\Release\IbanLibraryPCL.pdb
