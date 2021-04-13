@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="SuperComrprobador_UWP.Views.P1NIFPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Style="{StaticResource PageStyle}"
+    mc:Ignorable="d">
+    <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid Grid.Row="0" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Orientation="Horizontal" Grid.Column="1" Padding="0,0,0,0" Margin="0,0,0,0">
+
+                <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}" Height="64" Margin="16,-10,36,0" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+
+                <Image x:Name="image" Source="/Assets/Imagenes/dni-electronico.png" Margin="0,2,20,0" Height="42" />
+                <TextBlock
+                    x:Uid="P1NIF_Title"
+                    Style="{StaticResource PageTitleStyle}" />
+            </StackPanel>
+        </Grid>
+
+
+        <Grid
+            Grid.Row="1" 
+            Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}" VerticalAlignment="Stretch" Margin="0,15,0,91">
+            <!--
+                The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
+                Place your content here.
+            -->
+        </Grid>
+    </Grid>
+</Page>

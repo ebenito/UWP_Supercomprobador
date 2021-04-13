@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:desktop4="http://schemas.microsoft.com/appx/manifest/desktop/windows10/4" xmlns:iot2="http://schemas.microsoft.com/appx/manifest/iot/windows10/2" xmlns:genTemplate="http://schemas.microsoft.com/appx/developer/windowsTemplateStudio" IgnorableNamespaces="uap mp genTemplate desktop4 iot2 build" xmlns:build="http://schemas.microsoft.com/developer/appx/2015/build">
+  <!--
+    ESTE ARCHIVO DE MANIFIESTO DEL PAQUETE SE GENERA MEDIANTE EL PROCESO DE COMPILACIÓN.
+
+    Los cambios realizados en el archivo se perderán al regenerarlo. Para corregir los errores de este archivo, edite el archivo de origen .appxmanifest.
+
+    Para obtener más información acerca de los archivos de manifiesto del paquete, vea http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="D3732DC7-C394-4554-9FE5-BDC92B91ED05" Publisher="CN=ebenito" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <mp:PhoneIdentity PhoneProductId="D3732DC7-C394-4554-9FE5-BDC92B91ED05" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>SuperComrprobador_UWP</DisplayName>
+    <PublisherDisplayName>ebenito</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.18362.0" MaxVersionTested="10.0.19041.0" />
+    <PackageDependency Name="Microsoft.NET.CoreRuntime.2.2" MinVersion="2.2.29713.2" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+    <PackageDependency Name="Microsoft.NET.CoreFramework.Debug.2.2" MinVersion="2.2.29301.2" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+    <PackageDependency Name="Microsoft.Services.Store.Engagement" MinVersion="10.0.19011.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+    <PackageDependency Name="Microsoft.VCLibs.140.00.Debug" MinVersion="14.0.29231.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="ES-ES" />
+    <Resource Language="EN-US" />
+  </Resources>
+  <Applications>
+    <Application Id="App" desktop4:SupportsMultipleInstances="true" iot2:SupportsMultipleInstances="true" Executable="SuperComrprobador_UWP.exe" EntryPoint="SuperComrprobador_UWP.App">
+      <uap:VisualElements DisplayName="zms-resource:AppDisplayName" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="ms-resource:AppDescription" BackgroundColor="transparent">
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" />
+        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+      </uap:VisualElements>
+      <Extensions></Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+  <genTemplate:Metadata>
+    <genTemplate:Item Name="generator" Value="Windows Template Studio" />
+    <genTemplate:Item Name="wizardVersion" Version="v3.9.20351.2" />
+    <genTemplate:Item Name="templatesVersion" Version="v3.9.20351.2" />
+    <genTemplate:Item Name="projectType" Value="Blank" />
+    <genTemplate:Item Name="framework" Value="MVVMBasic" />
+    <genTemplate:Item Name="platform" Value="Uwp" />
+  </genTemplate:Metadata>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>SuperComrprobador_UWP.exe</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.UI.Xaml.Markup.ReflectionXamlMetadataProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+  <build:Metadata>
+    <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
+    <build:Item Name="VisualStudio" Version="16.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2019" />
+    <build:Item Name="OperatingSystem" Version="10.0.19041.867 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="16.0.31110.138" />
+    <build:Item Name="ProjectGUID" Value="{099A4297-4B2D-4DCC-A7E2-CCDF0C6E60F5}" />
+    <build:Item Name="OptimizingToolset" Value="None" />
+    <build:Item Name="TargetRuntime" Value="Managed" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="10.0.19041.685" />
+    <build:Item Name="MakePri.exe" Version="10.0.19041.685 (WinBuild.160101.0800)" />
+  </build:Metadata>
+</Package>
