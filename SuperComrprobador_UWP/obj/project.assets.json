@@ -8785,7 +8785,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/fWFWyikifP2NTudz83DIsEu3d5iD3ApM5ypEnrHcpTnelfPYZr/api": {}
       },
       "frameworks": {
         "uap10.0.18362": {

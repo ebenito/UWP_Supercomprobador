@@ -35,7 +35,6 @@ D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrpro
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\CheckCCC.xml
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\IbanLibraryPCL.pdb
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\SuperComrprobador_UWP.Core.pdb
-D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\obj\x86\Debug\SuperComrprobador_UWP.csprojAssemblyReference.cache
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\obj\x86\Debug\App.g.i.cs
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\obj\x86\Debug\App.g.cs
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\obj\x86\Debug\Views\MainPage.g.i.cs
@@ -96,3 +95,4 @@ D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrpro
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\obj\x86\Debug\ProjectArchitectures.txt
 D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\obj\x86\Debug\SuperComrprobador_UWP.csproj.AssemblyReference.cache

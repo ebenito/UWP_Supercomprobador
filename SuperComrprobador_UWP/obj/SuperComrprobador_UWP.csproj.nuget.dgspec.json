@@ -8,7 +8,12 @@
       "restore": {
         "projectUniqueName": "D:\\Mis documentos\\Visual Studio 2019\\Proyectos\\SuperComprobador_PRO\\CheckCCC\\CheckCCC.vbproj",
         "projectName": "CheckCCC",
-        "projectPath": "D:\\Mis documentos\\Visual Studio 2019\\Proyectos\\SuperComprobador_PRO\\CheckCCC\\CheckCCC.vbproj"
+        "projectPath": "D:\\Mis documentos\\Visual Studio 2019\\Proyectos\\SuperComprobador_PRO\\CheckCCC\\CheckCCC.vbproj",
+        "frameworks": {
+          "portable45-net45+win8": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "portable45-net45+win8": {}
@@ -18,7 +23,12 @@
       "restore": {
         "projectUniqueName": "D:\\Mis documentos\\Visual Studio 2019\\Proyectos\\SuperComprobador_PRO\\IbanLibraryPCL\\IbanLibraryPCL.csproj",
         "projectName": "IbanLibraryPCL",
-        "projectPath": "D:\\Mis documentos\\Visual Studio 2019\\Proyectos\\SuperComprobador_PRO\\IbanLibraryPCL\\IbanLibraryPCL.csproj"
+        "projectPath": "D:\\Mis documentos\\Visual Studio 2019\\Proyectos\\SuperComprobador_PRO\\IbanLibraryPCL\\IbanLibraryPCL.csproj",
+        "frameworks": {
+          "portable45-net45+win8": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "portable45-net45+win8": {}
@@ -49,7 +59,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/fWFWyikifP2NTudz83DIsEu3d5iD3ApM5ypEnrHcpTnelfPYZr/api": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -88,7 +99,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -118,7 +129,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/fWFWyikifP2NTudz83DIsEu3d5iD3ApM5ypEnrHcpTnelfPYZr/api": {}
         },
         "frameworks": {
           "uap10.0.18362": {

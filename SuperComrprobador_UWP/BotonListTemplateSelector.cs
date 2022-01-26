@@ -22,8 +22,8 @@ namespace SuperComrprobador_UWP
                     var currentFrame = Window.Current.Content as Frame;
                     var currentPage = currentFrame.Content as Page;
 
-                    var newViewState = Windows.UI.ViewManagement.ApplicationView.Value;
-                    if (newViewState == Windows.UI.ViewManagement.ApplicationViewState.Snapped)
+                    var newViewState = Windows.UI.ViewManagement.ApplicationView.GetForCurrentView(); //Windows.UI.ViewManagement.ApplicationView.Value;
+                    if (newViewState.Orientation == Windows.UI.ViewManagement.ApplicationViewOrientation.Portrait) //Windows.UI.ViewManagement.ApplicationViewState.Snapped)
                     {
                         return currentPage.Resources["BotonesSnappedItemTemplate"] as DataTemplate;
                     }

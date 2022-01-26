@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>5050A61680A287A3B83674387F25BD3AB4A7F6B6E90FFD431824D3C83A040D30</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>7ADD0C8E58110BB048D50FE3B4585A7613C226AEDC22D6A19E4D2A6976852316</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>D3732DC7-C394-4554-9FE5-BDC92B91ED05_1.0.0.0_x86__e6kzm8dajksdg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>D3732DC7-C394-4554-9FE5-BDC92B91ED05_e6kzm8dajksdg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>D3732DC7-C394-4554-9FE5-BDC92B91ED05</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-04-13T16:55:11.865</Modified>
+      <Modified>2022-01-26T08:19:50.032</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\SuperComrprobador_UWP.exe">
       <PackagePath>entrypoint\SuperComrprobador_UWP.exe</PackagePath>
-      <Modified>2021-04-13T16:50:05.937</Modified>
+      <Modified>2022-01-26T08:19:42.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ebenito\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
@@ -64,7 +64,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP.Core\bin\Debug\netstandard2.0\SuperComrprobador_UWP.Core.dll">
       <PackagePath>SuperComrprobador_UWP.Core.dll</PackagePath>
-      <Modified>2021-04-13T16:46:45.632</Modified>
+      <Modified>2022-01-26T08:19:38.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
@@ -142,47 +142,47 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.710</Modified>
+      <Modified>2021-08-15T12:05:34.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.709</Modified>
+      <Modified>2021-08-15T12:05:34.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.709</Modified>
+      <Modified>2021-08-15T12:05:34.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.709</Modified>
+      <Modified>2021-08-15T12:05:34.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.710</Modified>
+      <Modified>2021-08-15T12:05:34.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.710</Modified>
+      <Modified>2021-08-15T12:05:34.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.710</Modified>
+      <Modified>2021-08-15T12:05:34.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Views\P1NIFPage.xbf">
       <PackagePath>Views\P1NIFPage.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.710</Modified>
+      <Modified>2021-08-15T12:05:34.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Views\P2CCCPage.xbf">
       <PackagePath>Views\P2CCCPage.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.710</Modified>
+      <Modified>2021-08-15T12:05:34.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Views\P3IbanPage.xbf">
       <PackagePath>Views\P3IbanPage.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.711</Modified>
+      <Modified>2021-08-15T12:05:34.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Views\SettingsPage.xbf">
       <PackagePath>Views\SettingsPage.xbf</PackagePath>
-      <Modified>2021-04-13T16:55:10.711</Modified>
+      <Modified>2021-08-15T12:05:34.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -194,11 +194,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-04-13T16:55:10.991</Modified>
+      <Modified>2022-01-26T08:19:43.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP\bin\x86\Debug\Core\SuperComrprobador_UWP.exe">
       <PackagePath>SuperComrprobador_UWP.exe</PackagePath>
-      <Modified>2021-04-13T16:55:11.859</Modified>
+      <Modified>2022-01-26T08:19:50.024</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -282,36 +282,36 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.29231.0</Version>
+      <Version>14.0.30035.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.29231.0</Version>
+      <Version>14.0.30035.0</Version>
       <Architecture>ARM64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.29231.0</Version>
+      <Version>14.0.30035.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.29231.0</Version>
+      <Version>14.0.30035.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
