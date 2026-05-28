@@ -1,0 +1,733 @@
+{
+  "settings": {
+    "components": {
+      "code": true,
+      "binaries": false
+    },
+    "targetId": "net10.0",
+    "targetDisplayName": ".NETCoreApp,Version=v10.0"
+  },
+  "analysisStartTime": "2026-05-28T12:22:38.0925473Z",
+  "analysisEndTime": "2026-05-28T12:22:45.0910064Z",
+  "privacyModeHelpUrl": "https://go.microsoft.com/fwlink/?linkid=2270980",
+  "stats": {
+    "summary": {
+      "projects": 4,
+      "issues": 7,
+      "incidents": 21,
+      "effort": 21
+    },
+    "charts": {
+      "severity": {
+        "Mandatory": 7,
+        "Optional": 1,
+        "Potential": 13,
+        "Information": 0
+      },
+      "category": {
+        "Project": 6,
+        "NuGet": 4,
+        "Api": 11
+      }
+    }
+  },
+  "projects": [
+    {
+      "path": "CheckCCC\\CheckCCC.vbproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "CheckCCC",
+        "projectKind": "ClassicClassLibrary",
+        "frameworks": [
+          ".NETPortable,Version=v4.5"
+        ],
+        "languages": [
+          "Visual Basic"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "numberOfFiles": 3,
+        "numberOfCodeFiles": 3,
+        "linesTotal": 129,
+        "linesOfCode": 129,
+        "totalApiScanned": 26,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "ea841f64-18ed-4b28-8682-eb031c18399e",
+          "ruleId": "Project.0001",
+          "projectPath": "CheckCCC\\CheckCCC.vbproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "CheckCCC\\CheckCCC.vbproj"
+          }
+        },
+        {
+          "incidentId": "b6397d89-abf4-4945-869b-1da28345009a",
+          "ruleId": "Project.0002",
+          "projectPath": "CheckCCC\\CheckCCC.vbproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Marco de destino actual: .NETPortable,Version=v4.5,Profile=Profile7\nMarco de destino recomendado: net10.0",
+              "protected": "Marco de destino actual: .NETPortable,Version=v4.5,Profile=Profile7\nMarco de destino recomendado: net10.0"
+            },
+            "kind": "File",
+            "path": "CheckCCC\\CheckCCC.vbproj",
+            "snippet": "Marco de destino actual: .NETPortable,Version=v4.5,Profile=Profile7\nMarco de destino recomendado: net10.0",
+            "protectedSnippet": "Marco de destino actual: .NETPortable,Version=v4.5,Profile=Profile7\nMarco de destino recomendado: net10.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETPortable,Version=v4.5,Profile=Profile7",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "IbanLibraryPCL\\IbanLibraryPCL.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "IbanLibraryPCL",
+        "projectKind": "ClassicClassLibrary",
+        "frameworks": [
+          ".NETPortable,Version=v4.5"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "numberOfFiles": 3,
+        "numberOfCodeFiles": 3,
+        "linesTotal": 325,
+        "linesOfCode": 325,
+        "totalApiScanned": 281,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "5f309c59-28e7-4ebc-a2cf-c020a0067f46",
+          "ruleId": "Project.0001",
+          "projectPath": "IbanLibraryPCL\\IbanLibraryPCL.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "IbanLibraryPCL\\IbanLibraryPCL.csproj"
+          }
+        },
+        {
+          "incidentId": "d28dc652-4577-48bd-bcbc-e78b2227e1a9",
+          "ruleId": "Project.0002",
+          "projectPath": "IbanLibraryPCL\\IbanLibraryPCL.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Marco de destino actual: .NETPortable,Version=v4.5,Profile=Profile7\nMarco de destino recomendado: net10.0",
+              "protected": "Marco de destino actual: .NETPortable,Version=v4.5,Profile=Profile7\nMarco de destino recomendado: net10.0"
+            },
+            "kind": "File",
+            "path": "IbanLibraryPCL\\IbanLibraryPCL.csproj",
+            "snippet": "Marco de destino actual: .NETPortable,Version=v4.5,Profile=Profile7\nMarco de destino recomendado: net10.0",
+            "protectedSnippet": "Marco de destino actual: .NETPortable,Version=v4.5,Profile=Profile7\nMarco de destino recomendado: net10.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETPortable,Version=v4.5,Profile=Profile7",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "SuperComrprobador_UWP.Core\\SuperComrprobador_UWP.Core.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "SuperComrprobador_UWP.Core",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "netstandard2.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "numberOfFiles": 2,
+        "numberOfCodeFiles": 2,
+        "linesTotal": 45,
+        "linesOfCode": 45,
+        "totalApiScanned": 18,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "dae0407c-0ac2-44a1-aa97-33fa44a29055",
+          "ruleId": "NuGet.0002",
+          "projectPath": "SuperComrprobador_UWP.Core\\SuperComrprobador_UWP.Core.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Newtonsoft.Json, 12.0.3\n\nRecomendaci\u00F3n:\n\nRemove Newtonsoft.Json, and replace with new package Newtonsoft.Json 13.0.4",
+              "protected": "Newtonsoft.Json, 12.0.3\n\nRecomendaci\u00F3n:\n\nRemove Newtonsoft.Json, and replace with new package Newtonsoft.Json 13.0.4"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP.Core\\SuperComrprobador_UWP.Core.csproj",
+            "snippet": "Newtonsoft.Json, 12.0.3\n\nRecomendaci\u00F3n:\n\nRemove Newtonsoft.Json, and replace with new package Newtonsoft.Json 13.0.4",
+            "protectedSnippet": "Newtonsoft.Json, 12.0.3\n\nRecomendaci\u00F3n:\n\nRemove Newtonsoft.Json, and replace with new package Newtonsoft.Json 13.0.4",
+            "label": "Newtonsoft.Json 12.0.3",
+            "properties": {
+              "PackageId": "Newtonsoft.Json",
+              "PackageVersion": "12.0.3",
+              "PackageNewVersion": "13.0.4",
+              "PackageReplacements": null
+            }
+          }
+        },
+        {
+          "incidentId": "25f21f3e-04ca-485e-86d4-855274f5da71",
+          "ruleId": "NuGet.0004",
+          "projectPath": "SuperComrprobador_UWP.Core\\SuperComrprobador_UWP.Core.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Newtonsoft.Json, 12.0.3\n\nRecomendaci\u00F3n:\n\nNewtonsoft.Json, 13.0.4",
+              "protected": "Newtonsoft.Json, 12.0.3\n\nRecomendaci\u00F3n:\n\nNewtonsoft.Json, 13.0.4"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP.Core\\SuperComrprobador_UWP.Core.csproj",
+            "snippet": "Newtonsoft.Json, 12.0.3\n\nRecomendaci\u00F3n:\n\nNewtonsoft.Json, 13.0.4",
+            "protectedSnippet": "Newtonsoft.Json, 12.0.3\n\nRecomendaci\u00F3n:\n\nNewtonsoft.Json, 13.0.4",
+            "label": "Newtonsoft.Json 12.0.3",
+            "properties": {
+              "PackageId": "Newtonsoft.Json",
+              "PackageVersion": "12.0.3",
+              "PackageNewVersion": "13.0.4",
+              "PackageReplacements": null
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+      "startingProject": true,
+      "issues": 6,
+      "storyPoints": 15,
+      "properties": {
+        "appName": "SuperComrprobador_UWP",
+        "projectKind": "Uwp",
+        "frameworks": [
+          "net5.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "numberOfFiles": 40,
+        "numberOfCodeFiles": 25,
+        "linesTotal": 3233,
+        "linesOfCode": 1116,
+        "totalApiScanned": 1147,
+        "minLinesOfCodeToChange": 11,
+        "maxLinesOfCodeToChange": 11
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "92d0a710-3915-47b9-a1fb-0c303023d9cf",
+          "ruleId": "NuGet.0002",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Microsoft.NETCore.UniversalWindowsPlatform, 6.2.12\n\nRecomendaci\u00F3n:\n\nRemove Microsoft.NETCore.UniversalWindowsPlatform, and replace with new package Microsoft.WindowsAppSDK 2.1.3,\nMicrosoft.Graphics.Win2D 1.1.0,\nMicrosoft.Windows.Compatibility 10.0.8",
+              "protected": "Microsoft.NETCore.UniversalWindowsPlatform, 6.2.12\n\nRecomendaci\u00F3n:\n\nRemove Microsoft.NETCore.UniversalWindowsPlatform, and replace with new package Microsoft.WindowsAppSDK 2.1.3,\nMicrosoft.Graphics.Win2D 1.1.0,\nMicrosoft.Windows.Compatibility 10.0.8"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+            "snippet": "Microsoft.NETCore.UniversalWindowsPlatform, 6.2.12\n\nRecomendaci\u00F3n:\n\nRemove Microsoft.NETCore.UniversalWindowsPlatform, and replace with new package Microsoft.WindowsAppSDK 2.1.3,\nMicrosoft.Graphics.Win2D 1.1.0,\nMicrosoft.Windows.Compatibility 10.0.8",
+            "protectedSnippet": "Microsoft.NETCore.UniversalWindowsPlatform, 6.2.12\n\nRecomendaci\u00F3n:\n\nRemove Microsoft.NETCore.UniversalWindowsPlatform, and replace with new package Microsoft.WindowsAppSDK 2.1.3,\nMicrosoft.Graphics.Win2D 1.1.0,\nMicrosoft.Windows.Compatibility 10.0.8",
+            "label": "Microsoft.NETCore.UniversalWindowsPlatform 6.2.12",
+            "properties": {
+              "PackageId": "Microsoft.NETCore.UniversalWindowsPlatform",
+              "PackageVersion": "6.2.12",
+              "PackageNewVersion": null,
+              "PackageReplacements": "Replace with new package Microsoft.WindowsAppSDK=2.1.3;Microsoft.Graphics.Win2D=1.1.0;Microsoft.Windows.Compatibility=10.0.8"
+            }
+          }
+        },
+        {
+          "incidentId": "91b71472-cbeb-4a29-b2a2-ab705d1e4459",
+          "ruleId": "NuGet.0001",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Microsoft.Xaml.Behaviors.Uwp.Managed, 2.0.1\n\nRecomendaci\u00F3n:\n\nNo se encontr\u00F3 ninguna versi\u00F3n compatible",
+              "protected": "Microsoft.Xaml.Behaviors.Uwp.Managed, 2.0.1\n\nRecomendaci\u00F3n:\n\nNo se encontr\u00F3 ninguna versi\u00F3n compatible"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+            "snippet": "Microsoft.Xaml.Behaviors.Uwp.Managed, 2.0.1\n\nRecomendaci\u00F3n:\n\nNo se encontr\u00F3 ninguna versi\u00F3n compatible",
+            "protectedSnippet": "Microsoft.Xaml.Behaviors.Uwp.Managed, 2.0.1\n\nRecomendaci\u00F3n:\n\nNo se encontr\u00F3 ninguna versi\u00F3n compatible",
+            "label": "Microsoft.Xaml.Behaviors.Uwp.Managed 2.0.1",
+            "properties": {
+              "PackageId": "Microsoft.Xaml.Behaviors.Uwp.Managed",
+              "PackageVersion": "2.0.1",
+              "PackageNewVersion": null,
+              "PackageReplacements": null
+            }
+          }
+        },
+        {
+          "incidentId": "c1526cbb-9576-4726-8175-66a026653c39",
+          "ruleId": "Project.0001",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj"
+          }
+        },
+        {
+          "incidentId": "5857afb3-0fa0-4528-9d5b-d86bb92a562a",
+          "ruleId": "Project.0002",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Marco de destino actual: .NETCore,Version=v5.0\nMarco de destino recomendado: net10.0-windows10.0.26100.0",
+              "protected": "Marco de destino actual: .NETCore,Version=v5.0\nMarco de destino recomendado: net10.0-windows10.0.26100.0"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+            "snippet": "Marco de destino actual: .NETCore,Version=v5.0\nMarco de destino recomendado: net10.0-windows10.0.26100.0",
+            "protectedSnippet": "Marco de destino actual: .NETCore,Version=v5.0\nMarco de destino recomendado: net10.0-windows10.0.26100.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETCore,Version=v5.0",
+              "RecommendedTargetFramework": "net10.0-windows10.0.26100.0"
+            }
+          }
+        },
+        {
+          "incidentId": "72b8ee85-8c8f-4863-86f2-95b093c891a2",
+          "ruleId": "Api.0002",
+          "description": "API is available in package System.Runtime.WindowsRuntime, 4.7.0. Add package reference to System.Runtime.WindowsRuntime, 4.7.0",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "var item = await folder.TryGetItemAsync(fileName).AsTask().ConfigureAwait(false);",
+              "protected": "T:System.WindowsRuntimeSystemExtensions"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\Helpers\\SettingsStorageExtensions.cs",
+            "snippet": "var item = await folder.TryGetItemAsync(fileName).AsTask().ConfigureAwait(false);",
+            "protectedSnippet": "T:System.WindowsRuntimeSystemExtensions",
+            "label": "T:System.WindowsRuntimeSystemExtensions",
+            "properties": {
+              "PackageId": "System.Runtime.WindowsRuntime",
+              "PackageNewVersion": "4.7.0"
+            },
+            "line": 84,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "c4eb91cd-dbfd-4a58-8c04-cf01f21ceff9",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P3IbanPage.xaml\u0022);",
+              "protected": "T:System.Uri"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\P3IbanPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P3IbanPage.xaml\u0022);",
+            "protectedSnippet": "T:System.Uri",
+            "label": "T:System.Uri",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 41,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "51c2e377-4f05-4d66-9f72-51f817f8f753",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P3IbanPage.xaml\u0022);",
+              "protected": "M:System.Uri.#ctor(System.String)"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\P3IbanPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P3IbanPage.xaml\u0022);",
+            "protectedSnippet": "M:System.Uri.#ctor(System.String)",
+            "label": "M:System.Uri.#ctor(System.String)",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 41,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "b3d2b3b8-d3aa-4838-82ec-7575d49b4651",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P2CCCPage.xaml\u0022);",
+              "protected": "T:System.Uri"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\P2CCCPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P2CCCPage.xaml\u0022);",
+            "protectedSnippet": "T:System.Uri",
+            "label": "T:System.Uri",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 41,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "07e3b5c6-bc33-4de9-b3df-ada75a7d9a59",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P2CCCPage.xaml\u0022);",
+              "protected": "M:System.Uri.#ctor(System.String)"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\P2CCCPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P2CCCPage.xaml\u0022);",
+            "protectedSnippet": "M:System.Uri.#ctor(System.String)",
+            "label": "M:System.Uri.#ctor(System.String)",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 41,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "06b84ddb-1275-41c1-9c23-59b59fc2643e",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/MainPage.xaml\u0022);",
+              "protected": "T:System.Uri"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\MainPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/MainPage.xaml\u0022);",
+            "protectedSnippet": "T:System.Uri",
+            "label": "T:System.Uri",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 41,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "4402aea9-1a4b-4ef3-8d5f-11e4ab758a44",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/MainPage.xaml\u0022);",
+              "protected": "M:System.Uri.#ctor(System.String)"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\MainPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/MainPage.xaml\u0022);",
+            "protectedSnippet": "M:System.Uri.#ctor(System.String)",
+            "label": "M:System.Uri.#ctor(System.String)",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 41,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "1e555f41-b66b-40ce-ac16-fed41edfa716",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P1NIFPage.xaml\u0022);",
+              "protected": "T:System.Uri"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\P1NIFPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P1NIFPage.xaml\u0022);",
+            "protectedSnippet": "T:System.Uri",
+            "label": "T:System.Uri",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 41,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "1f2464da-403f-4435-9ad2-d3cecd4e9ff7",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P1NIFPage.xaml\u0022);",
+              "protected": "M:System.Uri.#ctor(System.String)"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\P1NIFPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/P1NIFPage.xaml\u0022);",
+            "protectedSnippet": "M:System.Uri.#ctor(System.String)",
+            "label": "M:System.Uri.#ctor(System.String)",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 41,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "9a2eeed0-b010-45f8-a633-077e958eebb8",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/SettingsPage.xaml\u0022);",
+              "protected": "T:System.Uri"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\SettingsPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/SettingsPage.xaml\u0022);",
+            "protectedSnippet": "T:System.Uri",
+            "label": "T:System.Uri",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 39,
+            "column": 12
+          }
+        },
+        {
+          "incidentId": "7bddd1e2-49f4-4b41-a682-3c3adc56d4af",
+          "ruleId": "Api.0003",
+          "description": "Breaking change: URI length limits removed ",
+          "projectPath": "SuperComrprobador_UWP\\SuperComrprobador_UWP.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/SettingsPage.xaml\u0022);",
+              "protected": "M:System.Uri.#ctor(System.String)"
+            },
+            "kind": "File",
+            "path": "SuperComrprobador_UWP\\obj\\x86\\Debug\\Views\\SettingsPage.g.i.cs",
+            "snippet": "global::System.Uri resourceLocator = new global::System.Uri(\u0022ms-appx:///Views/SettingsPage.xaml\u0022);",
+            "protectedSnippet": "M:System.Uri.#ctor(System.String)",
+            "label": "M:System.Uri.#ctor(System.String)",
+            "links": [
+              {
+                "title": "Documentaci\u00F3n de la API",
+                "url": "https://github.com/dotnet/docs/blob/main/docs/core/compatibility/networking/10.0/uri-length-limits-removed.md",
+                "isCustom": false
+              }
+            ],
+            "line": 39,
+            "column": 12
+          }
+        }
+      ],
+      "features": []
+    }
+  ],
+  "rules": {
+    "Project.0001": {
+      "id": "Project.0001",
+      "isFeature": false,
+      "description": "El archivo de proyecto debe convertirse al estilo SDK. Los proyectos modernos de .NET Framework requieren un cambio en el formato de archivo del proyecto y usan el SDK correspondiente al tipo y la funcionalidad del proyecto.",
+      "label": "El archivo de proyecto debe convertirse al estilo SDK",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Informaci\u00F3n general sobre la portabilidad de .NET Framework a .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": "SDK de proyecto .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    },
+    "Project.0002": {
+      "id": "Project.0002",
+      "isFeature": false,
+      "description": "El marco de destino del proyecto deben cambiarse al nuevo marco de destino que seleccion\u00F3 para esta actualizaci\u00F3n.\n\nDurante la actualizaci\u00F3n, el marco de destino se ajustar\u00E1 a la plataforma correspondiente cuando proceda. En algunos casos, el proyecto dar\u00EDa como resultado varios marcos de destino despu\u00E9s de la actualizaci\u00F3n si usara caracter\u00EDsticas que ahora tienen sus propias plataformas en marcos de .NET modernos (windows, iOS, Android, etc.).",
+      "label": "Es necesario cambiar el marco de destino del proyecto",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Informaci\u00F3n general sobre la portabilidad de .NET Framework a .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": "SDK de proyecto .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    },
+    "NuGet.0002": {
+      "id": "NuGet.0002",
+      "isFeature": false,
+      "description": "Se recomienda actualizar el paquete NuGet para la plataforma de destino seleccionada.\n\nSe recomienda que los paquetes .NET est\u00E1ndar tengan versiones que coincidan con la versi\u00F3n de .NET de destino del proyecto.\n\nTambi\u00E9n se sabe que otros paquetes funcionan mejor para las plataformas de destino seleccionadas.",
+      "label": "Se recomienda actualizar el paquete NuGet",
+      "severity": "Potential",
+      "effort": 1,
+      "links": [
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2262530",
+          "isCustom": false
+        }
+      ]
+    },
+    "NuGet.0004": {
+      "id": "NuGet.0004",
+      "isFeature": false,
+      "description": "El paquete NuGet contiene vulnerabilidades de seguridad.\n\nEl paquete debe actualizarse a una versi\u00F3n m\u00E1s reciente que solucione vulnerabilidades de seguridad conocidas.",
+      "label": "El paquete NuGet contiene una vulnerabilidad de seguridad.",
+      "severity": "Optional",
+      "effort": 1
+    },
+    "NuGet.0001": {
+      "id": "NuGet.0001",
+      "isFeature": false,
+      "description": "El paquete NuGet no es compatible con la plataforma de destino seleccionada.\n\nEl paquete debe actualizarse a una versi\u00F3n compatible con la plataforma de destino del proyecto seleccionada. Si no hay nuevas versiones de paquete que admitan la nueva plataforma de destino, es necesario usar un paquete diferente y todo el c\u00F3digo debe actualizarse a la nueva API.",
+      "label": "El paquete NuGet no es compatible",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2262529",
+          "isCustom": false
+        }
+      ]
+    },
+    "Api.0002": {
+      "id": "Api.0002",
+      "isFeature": false,
+      "description": "La API es incompatible a nivel de origen para la versi\u00F3n de .NET seleccionada: requiere cambios en el c\u00F3digo para compilarse correctamente cuando se dirige a una nueva versi\u00F3n, como eliminar API obsoletas o cambiar las firmas de los m\u00E9todos.",
+      "label": "El origen no es compatible con la versi\u00F3n de .NET seleccionada",
+      "severity": "Potential",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Cambios importantes en .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2262679",
+          "isCustom": false
+        }
+      ]
+    },
+    "Api.0003": {
+      "id": "Api.0003",
+      "isFeature": false,
+      "description": "La API tiene un cambio de comportamiento en la versi\u00F3n de .NET seleccionada: el c\u00F3digo y los archivos binarios pueden comportarse de forma diferente en el runtime sin necesidad de recompilaci\u00F3n, pero el nuevo comportamiento podr\u00EDa no ser deseable y requerir actualizaciones.",
+      "label": "Cambio de comportamiento en la versi\u00F3n de .NET seleccionada",
+      "severity": "Potential",
+      "effort": 1
+    }
+  }
+}
