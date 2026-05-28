@@ -35,6 +35,11 @@
             "projectReferences": {}
           }
         },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
@@ -1088,11 +1093,11 @@
           "dependencies": {
             "Microsoft.Graphics.Win2D": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.4.0, )"
             },
             "Microsoft.Services.Store.Engagement": {
               "target": "Package",
-              "version": "[10.1901.28001, )"
+              "version": "[10.2307.3001, )"
             },
             "Microsoft.Windows.Compatibility": {
               "target": "Package",
@@ -1104,7 +1109,7 @@
             },
             "Microsoft.Xaml.Behaviors.WinUI.Managed": {
               "target": "Package",
-              "version": "[2.0.9, )"
+              "version": "[3.0.1, )"
             }
           },
           "imports": [

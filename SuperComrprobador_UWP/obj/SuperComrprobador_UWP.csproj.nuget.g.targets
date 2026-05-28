@@ -15,7 +15,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk.dwrite\2.1.0\buildTransitive\Microsoft.WindowsAppSDK.DWrite.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk.dwrite\2.1.0\buildTransitive\Microsoft.WindowsAppSDK.DWrite.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk.ai\2.1.10\buildTransitive\Microsoft.WindowsAppSDK.AI.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk.ai\2.1.10\buildTransitive\Microsoft.WindowsAppSDK.AI.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk\2.1.3\buildTransitive\Microsoft.WindowsAppSDK.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk\2.1.3\buildTransitive\Microsoft.WindowsAppSDK.targets')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.services.store.engagement\10.1901.28001\build\Microsoft.Services.Store.Engagement.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.services.store.engagement\10.1901.28001\build\Microsoft.Services.Store.Engagement.targets')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.graphics.win2d\1.1.0\build\net6.0-windows10.0.17763.0\Microsoft.Graphics.Win2D.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.graphics.win2d\1.1.0\build\net6.0-windows10.0.17763.0\Microsoft.Graphics.Win2D.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.services.store.engagement\10.2307.3001\build\Microsoft.Services.Store.Engagement.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.services.store.engagement\10.2307.3001\build\Microsoft.Services.Store.Engagement.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.graphics.win2d\1.4.0\buildTransitive\net6.0-windows10.0.19041.0\Microsoft.Graphics.Win2D.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.graphics.win2d\1.4.0\buildTransitive\net6.0-windows10.0.19041.0\Microsoft.Graphics.Win2D.targets')" />
   </ImportGroup>
 </Project>

@@ -27,6 +27,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk.dwrite\2.1.0\buildTransitive\Microsoft.WindowsAppSDK.DWrite.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk.dwrite\2.1.0\buildTransitive\Microsoft.WindowsAppSDK.DWrite.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk.ai\2.1.10\buildTransitive\Microsoft.WindowsAppSDK.AI.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk.ai\2.1.10\buildTransitive\Microsoft.WindowsAppSDK.AI.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk\2.1.3\buildTransitive\Microsoft.WindowsAppSDK.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk\2.1.3\buildTransitive\Microsoft.WindowsAppSDK.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.graphics.win2d\1.4.0\buildTransitive\net6.0-windows10.0.19041.0\Microsoft.Graphics.Win2D.props" Condition="Exists('$(NuGetPackageRoot)microsoft.graphics.win2d\1.4.0\buildTransitive\net6.0-windows10.0.19041.0\Microsoft.Graphics.Win2D.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Windows_SDK_BuildTools_MSIX Condition=" '$(PkgMicrosoft_Windows_SDK_BuildTools_MSIX)' == '' ">C:\Users\ebenito\.nuget\packages\microsoft.windows.sdk.buildtools.msix\1.7.251221100</PkgMicrosoft_Windows_SDK_BuildTools_MSIX>
