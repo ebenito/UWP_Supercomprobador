@@ -1,18 +1,21 @@
 ﻿using System;
 using System.Threading.Tasks;
 
+using Microsoft.UI.Dispatching;
+using Microsoft.UI.Xaml;
+
 using SuperComrprobador_UWP.Helpers;
 
-using Windows.ApplicationModel.Core;
 using Windows.Storage;
-using Windows.UI.Core;
-using Windows.UI.Xaml;
 
 namespace SuperComrprobador_UWP.Services
 {
     public static class ThemeSelectorService
     {
         private const string SettingsKey = "AppBackgroundRequestedTheme";
+
+        // In WinUI 3, the app window must be set externally (e.g. from App.xaml.cs)
+        public static Window AppWindow { get; set; }
 
         public static ElementTheme Theme { get; set; } = ElementTheme.Default;
 
@@ -31,15 +34,23 @@ namespace SuperComrprobador_UWP.Services
 
         public static async Task SetRequestedThemeAsync()
         {
-            foreach (var view in CoreApplication.Views)
+            if (AppWindow?.Content is FrameworkElement frameworkElement)
             {
-                await view.Dispatcher.RunAsync(CoreDispatcherPriority.Normal, () =>
+                var dispatcherQueue = frameworkElement.DispatcherQueue;
+                if (dispatcherQueue.HasThreadAccess)
                 {
-                    if (Window.Current.Content is FrameworkElement frameworkElement)
+                    frameworkElement.RequestedTheme = Theme;
+                }
+                else
+                {
+                    var tcs = new TaskCompletionSource();
+                    dispatcherQueue.TryEnqueue(DispatcherQueuePriority.Normal, () =>
                     {
                         frameworkElement.RequestedTheme = Theme;
-                    }
-                });
+                        tcs.SetResult();
+                    });
+                    await tcs.Task;
+                }
             }
         }
 

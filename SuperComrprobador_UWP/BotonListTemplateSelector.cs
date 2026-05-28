@@ -1,41 +1,31 @@
-﻿using SuperComrprobador_UWP.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Windows.UI.Xaml;
-using Windows.UI.Xaml.Controls;
+﻿using Microsoft.UI.Xaml;
+using Microsoft.UI.Xaml.Controls;
+using Microsoft.UI.Xaml.Media;
+using SuperComrprobador_UWP.Models;
 
 namespace SuperComrprobador_UWP
 {
     public class BotonListTemplateSelector : DataTemplateSelector
     {
-        protected override Windows.UI.Xaml.DataTemplate SelectTemplateCore(object item, Windows.UI.Xaml.DependencyObject container)
+        protected override DataTemplate SelectTemplateCore(object item, DependencyObject container)
         {
-            if (item != null)
+            if (item is BotonesMenu)
             {
-                var boton = item as BotonesMenu;
+                // WinUI 3 desktop apps don't have ApplicationView orientation.
+                // Always use the standard item template.
+                var currentFrame = App.Current.Resources;
+                if (container is FrameworkElement fe && fe.FindName("BotonesItemTemplate") is DataTemplate dt)
+                    return dt;
 
-                if (boton != null)
+                // Fallback: look in page resources
+                if (container is FrameworkElement element)
                 {
-                    var currentFrame = Window.Current.Content as Frame;
-                    var currentPage = currentFrame.Content as Page;
+                    var page = element;
+                    while (page != null && page is not Page)
+                        page = VisualTreeHelper.GetParent(page) as FrameworkElement;
 
-                    var newViewState = Windows.UI.ViewManagement.ApplicationView.GetForCurrentView(); //Windows.UI.ViewManagement.ApplicationView.Value;
-                    if (newViewState.Orientation == Windows.UI.ViewManagement.ApplicationViewOrientation.Portrait) //Windows.UI.ViewManagement.ApplicationViewState.Snapped)
-                    {
-                        return currentPage.Resources["BotonesSnappedItemTemplate"] as DataTemplate;
-                    }
-                    else
-                    {
-                        return currentPage.Resources["BotonesItemTemplate"] as DataTemplate;
-                    }
-
-                    //if (boton.Type.Equals(BotonType.Boton))
-                    //    return currentPage.Resources["BotonesItemTemplate"] as DataTemplate;
-                    //else
-                    //    return currentPage.Resources["BotonesItemTemplate"] as DataTemplate;  //En este caso solo hay una
+                    if (page is Page p && p.Resources["BotonesItemTemplate"] is DataTemplate pageTemplate)
+                        return pageTemplate;
                 }
             }
 

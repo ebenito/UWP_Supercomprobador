@@ -2,8 +2,8 @@
 
 using SuperComrprobador_UWP.Services;
 
-using Windows.ApplicationModel.Activation;
-using Windows.UI.Xaml;
+using Microsoft.UI.Xaml;
+using Microsoft.Windows.AppLifecycle;
 
 namespace SuperComrprobador_UWP
 {
@@ -27,18 +27,10 @@ namespace SuperComrprobador_UWP
 
         protected override async void OnLaunched(LaunchActivatedEventArgs args)
         {
-            if (!args.PrelaunchActivated)
-            {
-                await ActivationService.ActivateAsync(args);
-            }
-        }
-
-        protected override async void OnActivated(IActivatedEventArgs args)
-        {
             await ActivationService.ActivateAsync(args);
         }
 
-        private void OnAppUnhandledException(object sender, Windows.UI.Xaml.UnhandledExceptionEventArgs e)
+        private void OnAppUnhandledException(object sender, Microsoft.UI.Xaml.UnhandledExceptionEventArgs e)
         {
             // TODO WTS: Please log and handle the exception as appropriate to your scenario
             // For more info see https://docs.microsoft.com/uwp/api/windows.ui.xaml.application.unhandledexception

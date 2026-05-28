@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 using SuperComrprobador_UWP.Activation;
 
-using Windows.ApplicationModel.Activation;
+using Microsoft.UI.Xaml;
+using Microsoft.UI.Xaml.Controls;
+using Microsoft.UI.Xaml.Input;
+
 using Windows.System;
-using Windows.UI.Xaml;
-using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Input;
 
 namespace SuperComrprobador_UWP.Services
 {
@@ -125,7 +125,7 @@ namespace SuperComrprobador_UWP.Services
 
         private bool IsInteractive(object args)
         {
-            return args is IActivatedEventArgs;
+            return args is LaunchActivatedEventArgs;
         }
     }
 }

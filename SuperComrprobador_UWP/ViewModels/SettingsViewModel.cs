@@ -6,7 +6,7 @@ using SuperComrprobador_UWP.Helpers;
 using SuperComrprobador_UWP.Services;
 
 using Windows.ApplicationModel;
-using Windows.UI.Xaml;
+using Microsoft.UI.Xaml;
 
 namespace SuperComrprobador_UWP.ViewModels
 {
@@ -51,28 +51,12 @@ namespace SuperComrprobador_UWP.ViewModels
             }
         }
 
-        public Visibility FeedbackLinkVisibility => Microsoft.Services.Store.Engagement.StoreServicesFeedbackLauncher.IsSupported() ? Visibility.Visible : Visibility.Collapsed;
+        // TODO: Microsoft.Services.Store.Engagement is not compatible with WinUI 3 desktop apps.
+        // Re-evaluate if Store feedback integration is needed via a different mechanism.
+        public Visibility FeedbackLinkVisibility => Visibility.Collapsed;
 
-        private ICommand _launchFeedbackHubCommand;
-
-        public ICommand LaunchFeedbackHubCommand
-        {
-            get
-            {
-                if (_launchFeedbackHubCommand == null)
-                {
-                    _launchFeedbackHubCommand = new RelayCommand(
-                        async () =>
-                        {
-                            // This launcher is part of the Store Services SDK https://docs.microsoft.com/windows/uwp/monetize/microsoft-store-services-sdk
-                            var launcher = Microsoft.Services.Store.Engagement.StoreServicesFeedbackLauncher.GetDefault();
-                            await launcher.LaunchAsync();
-                        });
-                }
-
-                return _launchFeedbackHubCommand;
-            }
-        }
+        // TODO: StoreServicesFeedbackLauncher is not compatible with WinUI 3 desktop apps.
+        public ICommand LaunchFeedbackHubCommand => new RelayCommand(() => { });
 
         public SettingsViewModel()
         {

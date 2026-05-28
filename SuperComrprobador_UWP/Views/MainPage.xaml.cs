@@ -2,7 +2,7 @@
 
 using SuperComrprobador_UWP.ViewModels;
 
-using Windows.UI.Xaml.Controls;
+using Microsoft.UI.Xaml.Controls;
 
 namespace SuperComrprobador_UWP.Views
 {
@@ -36,7 +36,7 @@ namespace SuperComrprobador_UWP.Views
         }
 
 
-        private void StackPanel_Tapped(object sender, Windows.UI.Xaml.Input.TappedRoutedEventArgs e)
+        private void StackPanel_Tapped(object sender, Microsoft.UI.Xaml.Input.TappedRoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(SettingsPage));
         }

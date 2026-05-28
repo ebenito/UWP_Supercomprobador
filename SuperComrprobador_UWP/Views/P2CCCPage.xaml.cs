@@ -2,7 +2,7 @@
 
 using SuperComrprobador_UWP.ViewModels;
 
-using Windows.UI.Xaml.Controls;
+using Microsoft.UI.Xaml.Controls;
 
 namespace SuperComrprobador_UWP.Views
 {
@@ -16,7 +16,7 @@ namespace SuperComrprobador_UWP.Views
         }
 
 
-        private void GoBack(object sender, Windows.UI.Xaml.RoutedEventArgs e)
+        private void GoBack(object sender, Microsoft.UI.Xaml.RoutedEventArgs e)
         {
             // Usar el entorno de exploración para volver a la página anterior
             if (this.Frame != null && this.Frame.CanGoBack) this.Frame.GoBack();
