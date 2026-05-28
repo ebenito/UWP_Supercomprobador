@@ -8,3 +8,9 @@ D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPC
 D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\obj\Debug\IbanLibraryPCL.pdb
 D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\bin\Debug\IbanLibraryPCL.dll.CodeAnalysisLog.xml
 D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\IbanLibraryPCL\bin\Debug\IbanLibraryPCL.dll.lastcodeanalysissucceeded
+C:\Proyectos\XTV\UWP_Supercomprobador\IbanLibraryPCL\bin\Debug\IbanLibraryPCL.dll
+C:\Proyectos\XTV\UWP_Supercomprobador\IbanLibraryPCL\bin\Debug\IbanLibraryPCL.pdb
+C:\Proyectos\XTV\UWP_Supercomprobador\IbanLibraryPCL\obj\Debug\IbanLibraryPCL.csproj.AssemblyReference.cache
+C:\Proyectos\XTV\UWP_Supercomprobador\IbanLibraryPCL\obj\Debug\IbanLibraryPCL.csproj.CoreCompileInputs.cache
+C:\Proyectos\XTV\UWP_Supercomprobador\IbanLibraryPCL\obj\Debug\IbanLibraryPCL.dll
+C:\Proyectos\XTV\UWP_Supercomprobador\IbanLibraryPCL\obj\Debug\IbanLibraryPCL.pdb

@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = SuperComrprobador_UWP.Core
-build_property.ProjectDir = D:\Mis documentos\Visual Studio 2019\Proyectos\SuperComprobador_PRO\SuperComrprobador_UWP.Core\
+build_property.ProjectDir = C:\Proyectos\XTV\UWP_Supercomprobador\SuperComrprobador_UWP.Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

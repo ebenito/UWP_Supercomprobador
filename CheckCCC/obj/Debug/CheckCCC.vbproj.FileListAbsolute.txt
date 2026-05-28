@@ -24,3 +24,11 @@ D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\CheckCCC\obj\
 D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\CheckCCC\obj\Debug\CheckCCC.pdb
 D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\CheckCCC\bin\Debug\CheckCCC.dll.CodeAnalysisLog.xml
 D:\Mis documentos\Visual Studio 2015\Projects\SuperComprobador_PRO\CheckCCC\bin\Debug\CheckCCC.dll.lastcodeanalysissucceeded
+C:\Proyectos\XTV\UWP_Supercomprobador\CheckCCC\bin\Debug\CheckCCC.dll
+C:\Proyectos\XTV\UWP_Supercomprobador\CheckCCC\bin\Debug\CheckCCC.pdb
+C:\Proyectos\XTV\UWP_Supercomprobador\CheckCCC\bin\Debug\CheckCCC.xml
+C:\Proyectos\XTV\UWP_Supercomprobador\CheckCCC\obj\Debug\CheckCCC.vbproj.AssemblyReference.cache
+C:\Proyectos\XTV\UWP_Supercomprobador\CheckCCC\obj\Debug\CheckCCC.vbproj.CoreCompileInputs.cache
+C:\Proyectos\XTV\UWP_Supercomprobador\CheckCCC\obj\Debug\CheckCCC.dll
+C:\Proyectos\XTV\UWP_Supercomprobador\CheckCCC\obj\Debug\CheckCCC.xml
+C:\Proyectos\XTV\UWP_Supercomprobador\CheckCCC\obj\Debug\CheckCCC.pdb
