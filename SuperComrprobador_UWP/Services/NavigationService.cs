@@ -22,7 +22,9 @@ namespace SuperComrprobador_UWP.Services
             {
                 if (_frame == null)
                 {
-                    _frame = Window.Current.Content as Frame;
+                    // Frame must be set via NavigationService.Frame = ... before navigation.
+                    // Window.Current is not available in WinUI 3; use App.MainWindow.Content instead.
+                    _frame = App.MainWindow?.Content as Frame;
                     RegisterFrameEvents();
                 }
 

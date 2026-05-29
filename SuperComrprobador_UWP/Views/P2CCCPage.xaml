@@ -1,11 +1,14 @@
 ﻿<Page
     x:Class="SuperComrprobador_UWP.Views.P2CCCPage"
+    x:Name="pageRoot"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Style="{StaticResource PageStyle}"
     mc:Ignorable="d">
+
+
     <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
         <Grid.RowDefinitions>
             <RowDefinition Height="48" />
@@ -33,10 +36,60 @@
         <Grid
             Grid.Row="1" 
             Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
-            <!--
-                The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
-                Place your content here.
-            -->
+
+            <StackPanel Margin="40,40,40,0" MaxWidth="600" HorizontalAlignment="Left">
+
+                <TextBlock Text="Introduce los datos del CCC a verificar:" Style="{StaticResource SubtitleTextBlockStyle}" Margin="0,0,0,16"/>
+
+                <Grid Margin="0,0,0,12">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="16"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="16"/>
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="16"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0">
+                        <TextBlock Text="Banco (4)" Margin="0,0,0,4"/>
+                        <TextBox PlaceholderText="0000" MaxLength="4"
+                                 Text="{Binding ViewModel.Banco, ElementName=pageRoot, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 FontSize="20" TextAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="2">
+                        <TextBlock Text="Oficina (4)" Margin="0,0,0,4"/>
+                        <TextBox PlaceholderText="0000" MaxLength="4"
+                                 Text="{Binding ViewModel.Oficina, ElementName=pageRoot, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 FontSize="20" TextAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="4">
+                        <TextBlock Text="DC (2)" Margin="0,0,0,4"/>
+                        <TextBox PlaceholderText="00" MaxLength="2"
+                                 Text="{Binding ViewModel.DC, ElementName=pageRoot, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 FontSize="20" TextAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="6">
+                        <TextBlock Text="Cuenta (10)" Margin="0,0,0,4"/>
+                        <TextBox PlaceholderText="0000000000" MaxLength="10"
+                                 Text="{Binding ViewModel.Cuenta, ElementName=pageRoot, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 FontSize="20" TextAlignment="Center"/>
+                    </StackPanel>
+                </Grid>
+
+                <Border
+                    Visibility="{Binding ViewModel.ResultadoVisibility, ElementName=pageRoot}"
+                    CornerRadius="8"
+                    Padding="20,16"
+                    Margin="0,12,0,0"
+                    Background="{ThemeResource SystemControlBackgroundChromeMediumLowBrush}">
+                    <TextBlock
+                        Text="{Binding ViewModel.Resultado, ElementName=pageRoot}"
+                        FontSize="18"
+                        TextWrapping="Wrap"/>
+                </Border>
+
+            </StackPanel>
         </Grid>
     </Grid>
 </Page>

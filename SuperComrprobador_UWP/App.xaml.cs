@@ -3,13 +3,13 @@
 using SuperComrprobador_UWP.Services;
 
 using Microsoft.UI.Xaml;
-using Microsoft.Windows.AppLifecycle;
 
 namespace SuperComrprobador_UWP
 {
     public sealed partial class App : Application
     {
         private Lazy<ActivationService> _activationService;
+        internal static Window MainWindow { get; private set; }
 
         private ActivationService ActivationService
         {
@@ -20,25 +20,28 @@ namespace SuperComrprobador_UWP
         {
             InitializeComponent();
             UnhandledException += OnAppUnhandledException;
-
-            // Deferred execution until used. Check https://docs.microsoft.com/dotnet/api/system.lazy-1 for further info on Lazy<T> class.
             _activationService = new Lazy<ActivationService>(CreateActivationService);
         }
 
         protected override async void OnLaunched(LaunchActivatedEventArgs args)
         {
+            MainWindow = new Window();
+            MainWindow.Activate();
+
+            // Pass the window to ThemeSelectorService so it can apply the theme.
+            ThemeSelectorService.AppWindow = MainWindow;
+
             await ActivationService.ActivateAsync(args);
         }
 
         private void OnAppUnhandledException(object sender, Microsoft.UI.Xaml.UnhandledExceptionEventArgs e)
         {
             // TODO WTS: Please log and handle the exception as appropriate to your scenario
-            // For more info see https://docs.microsoft.com/uwp/api/windows.ui.xaml.application.unhandledexception
         }
 
         private ActivationService CreateActivationService()
         {
-            return new ActivationService(this, typeof(Views.MainPage));
+            return new ActivationService(this, typeof(Views.MainPage), MainWindow);
         }
     }
 }

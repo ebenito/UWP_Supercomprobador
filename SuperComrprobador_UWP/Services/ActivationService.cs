@@ -13,103 +13,73 @@ using Windows.System;
 
 namespace SuperComrprobador_UWP.Services
 {
-    // For more information on understanding and extending activation flow see
-    // https://github.com/Microsoft/WindowsTemplateStudio/blob/release/docs/UWP/activation.md
     internal class ActivationService
     {
         private readonly App _app;
         private readonly Type _defaultNavItem;
         private Lazy<UIElement> _shell;
-
+        private readonly Window _mainWindow;
         private object _lastActivationArgs;
 
         public static readonly KeyboardAccelerator AltLeftKeyboardAccelerator = BuildKeyboardAccelerator(VirtualKey.Left, VirtualKeyModifiers.Menu);
-
         public static readonly KeyboardAccelerator BackKeyboardAccelerator = BuildKeyboardAccelerator(VirtualKey.GoBack);
 
-        public ActivationService(App app, Type defaultNavItem, Lazy<UIElement> shell = null)
+        public ActivationService(App app, Type defaultNavItem, Window mainWindow, Lazy<UIElement> shell = null)
         {
             _app = app;
             _shell = shell;
             _defaultNavItem = defaultNavItem;
+            _mainWindow = mainWindow;
         }
 
         public async Task ActivateAsync(object activationArgs)
         {
             if (IsInteractive(activationArgs))
             {
-                // Initialize services that you need before app activation
-                // take into account that the splash screen is shown while this code runs.
                 await InitializeAsync();
-
-                // Do not repeat app initialization when the Window already has content,
-                // just ensure that the window is active
-                if (Window.Current.Content == null)
+                if (_mainWindow.Content == null)
                 {
-                    // Create a Shell or Frame to act as the navigation context
-                    Window.Current.Content = _shell?.Value ?? new Frame();
-                    NavigationService.NavigationFailed += (sender, e) =>
-                    {
-                        throw e.Exception;
-                    };
+                    var frame = new Frame();
+                    _mainWindow.Content = _shell?.Value ?? frame;
+                    NavigationService.Frame = _mainWindow.Content as Frame;
+                    NavigationService.NavigationFailed += (sender, e) => throw e.Exception;
                 }
             }
-
-            // Depending on activationArgs one of ActivationHandlers or DefaultActivationHandler
-            // will navigate to the first page
             await HandleActivationAsync(activationArgs);
             _lastActivationArgs = activationArgs;
-
             if (IsInteractive(activationArgs))
             {
-                // Ensure the current window is active
-                Window.Current.Activate();
-
-                // Tasks after activation
+                _mainWindow.Activate();
                 await StartupAsync();
             }
         }
 
         private static KeyboardAccelerator BuildKeyboardAccelerator(VirtualKey key, VirtualKeyModifiers? modifiers = null)
         {
-            var keyboardAccelerator = new KeyboardAccelerator() { Key = key };
-            if (modifiers.HasValue)
-            {
-                keyboardAccelerator.Modifiers = modifiers.Value;
-            }
-
-            keyboardAccelerator.Invoked += OnKeyboardAcceleratorInvoked;
-            return keyboardAccelerator;
+            var ka = new KeyboardAccelerator() { Key = key };
+            if (modifiers.HasValue) ka.Modifiers = modifiers.Value;
+            ka.Invoked += OnKeyboardAcceleratorInvoked;
+            return ka;
         }
 
         private static void OnKeyboardAcceleratorInvoked(KeyboardAccelerator sender, KeyboardAcceleratorInvokedEventArgs args)
         {
-            var result = NavigationService.GoBack();
-            args.Handled = result;
+            args.Handled = NavigationService.GoBack();
         }
 
         private async Task InitializeAsync()
         {
-            await ThemeSelectorService.InitializeAsync().ConfigureAwait(false);
+            await ThemeSelectorService.InitializeAsync();
         }
 
         private async Task HandleActivationAsync(object activationArgs)
         {
-            var activationHandler = GetActivationHandlers()
-                                                .FirstOrDefault(h => h.CanHandle(activationArgs));
-
-            if (activationHandler != null)
-            {
-                await activationHandler.HandleAsync(activationArgs);
-            }
-
+            var handler = GetActivationHandlers().FirstOrDefault(h => h.CanHandle(activationArgs));
+            if (handler != null) await handler.HandleAsync(activationArgs);
             if (IsInteractive(activationArgs))
             {
                 var defaultHandler = new DefaultActivationHandler(_defaultNavItem);
-                if (defaultHandler.CanHandle(activationArgs))
-                {
-                    await defaultHandler.HandleAsync(activationArgs);
-                }
+                if (defaultHandler.CanHandle(activationArgs)) await defaultHandler.HandleAsync(activationArgs);
             }
         }
 
@@ -118,14 +88,8 @@ namespace SuperComrprobador_UWP.Services
             await ThemeSelectorService.SetRequestedThemeAsync();
         }
 
-        private IEnumerable<ActivationHandler> GetActivationHandlers()
-        {
-            yield break;
-        }
+        private IEnumerable<ActivationHandler> GetActivationHandlers() { yield break; }
 
-        private bool IsInteractive(object args)
-        {
-            return args is LaunchActivatedEventArgs;
-        }
+        private bool IsInteractive(object args) => args is LaunchActivatedEventArgs;
     }
 }
