@@ -27,7 +27,7 @@
                 <Border Grid.Row="0" Background="{StaticResource ListViewItemPlaceholderBackgroundThemeBrush}">
                     <Image Source="{Binding Image}" Stretch="Uniform"  AutomationProperties.Name="{Binding Title}"/>
                 </Border>
-                <TextBlock Grid.Row="1" Text="{Binding Title}" Foreground="{StaticResource ListViewItemOverlayForegroundThemeBrush}"
+                <TextBlock Grid.Row="1" Text="{Binding Title}" Foreground="{ThemeResource SystemBaseHighColor}"
                                HorizontalAlignment="Center" VerticalAlignment="Center"
                                FontSize="25"/>
             </Grid>

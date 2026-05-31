@@ -21,6 +21,7 @@
     <Style x:Key="ButtomsText" TargetType="TextBlock">
         <Setter Property="FontWeight" Value="Normal" />
         <Setter Property="FontSize" Value="{StaticResource ButtomText}" />
+        <Setter Property="Foreground" Value="{ThemeResource SystemBaseHighColor}" />
         <Setter Property="TextTrimming" Value="CharacterEllipsis" />
         <Setter Property="TextWrapping" Value="Wrap" />
     </Style>
