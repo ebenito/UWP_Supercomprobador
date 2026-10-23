@@ -86,8 +86,6 @@
                     Margin="{StaticResource XSmallTopMargin}"
                     Style="{ThemeResource BodyTextBlockStyle}" />
 
-                <HyperlinkButton x:Uid="Settings_PrivacyTermsLink" Margin="{StaticResource XSmallTopMargin}" />
-
                 <HyperlinkButton
                     Margin="{StaticResource XSmallTopMargin}"
                     x:Uid="FeedbackHub_Link"
