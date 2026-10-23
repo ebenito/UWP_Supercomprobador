@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap">
-  <Identity Name="64068EstebanBenito.SperComprobador-PRO" Publisher="CN=861769EB-74FC-4B39-BFED-DFA2CEF5D924" Version="2.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="64068EstebanBenito.SperComprobador-PRO" Publisher="CN=861769EB-74FC-4B39-BFED-DFA2CEF5D924" Version="2.0.4.0" ProcessorArchitecture="neutral" />
   <Properties>
 	<DisplayName>Súper Comprobador - PRO</DisplayName>
 	<PublisherDisplayName>AppsWP</PublisherDisplayName>

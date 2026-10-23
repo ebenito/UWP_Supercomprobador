@@ -226,6 +226,9 @@ rcf/
 AppPackages/
 BundleArtifacts/
 Package.StoreAssociation.xml
+# El del proyecto de empaquetado sí se versiona: solo contiene el id de editor
+# y los nombres reservados, y evita reasociar la app en cada clon.
+!SuperComrprobador_UWP_Package/Package.StoreAssociation.xml
 _pkginfo.txt
 *.appx
 *.appxbundle
